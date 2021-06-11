@@ -1,5 +1,5 @@
 ---
 title: "Insighta"
 url: /ruiru/insighta/
-shop: copyshop
+shop: Graphic design, Web development and printing
 ---
